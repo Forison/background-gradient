@@ -1,7 +1,7 @@
 # BUILDING WITH BACKGROUNDS AND GRADIENTS
 
-A practical demonstration of designing an HTML form.
-This project is designed to look like [mint.com's sign up form](https://web.archive.org/web/20140301004610/http://www.apple.com/), for the purpose of practical demonstration.
+A practical demonstration of how to use background and gradient.
+This project is designed to look like [old version of apple.com](https://web.archive.org/web/20140301004610/http://www.apple.com/), for the purpose of practical demonstration.
 The project is part of a series of projects to be completed by students of [Microverse](https://www.microverse.org/ "The Global School for Remote Software Developers!").
 
 ## Technologies
@@ -29,7 +29,7 @@ $ cd background-and-gradient
 
 The demo page can be found [HERE](https://raw.githack.com/forison/background-gradient/dev/index.html)
 
-## Contributors
+## Designed and Implemented
 
 [Boakye Addo Forison](https://github.com/Forison)
 
